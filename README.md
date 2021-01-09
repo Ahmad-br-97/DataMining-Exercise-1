@@ -1,4 +1,4 @@
-# DataMining-Exercise-1
+# DataMining-Exercise-1 :
 
 # Exercise_01-01.py
 1. Write a Python program to count the number of characters (character frequency) in a string\
